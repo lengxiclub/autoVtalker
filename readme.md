@@ -40,7 +40,7 @@ item []:
 
 要运行此程序，建议在python 3.6以上环境下，同时须有numpy、pyworld、soundfile三个依赖库，按如下命令运行。
 
-```
+```bash
 python autoVtalker.py in.wav in.TextGrid out.vsqx
 ```
 
@@ -50,4 +50,4 @@ python autoVtalker.py in.wav in.TextGrid out.vsqx
 
 如果效果不好，可以调一调平滑窗口大小什么的，当然最重要的还是生成好后自己处理一遍PIT和DYN的细节，所以说这个玩意并没有什么用，可能做好切分的话可以解决一下节奏问题。
 
-样例的语音文件来自标贝中文标准女声音库（https://www.data-baker.com/open_source.html）中的003796.wav。
+样例的语音文件来自标贝中文标准女声音库（https://www.data-baker.com/open_source.html ）中的003796.wav。
