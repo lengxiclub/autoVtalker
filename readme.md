@@ -8,7 +8,7 @@
 
 TextGrid文件应具有如下格式，空白/噪声区域应为空白标记（当然写成Asp/Sil也行）：
 
-```
+```yaml
 File type = "ooTextFile"
 Object class = "TextGrid"
 
